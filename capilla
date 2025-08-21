@@ -1,0 +1,61 @@
+<!DOCTYPE html>  
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Conjunto La Capilla</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header, footer {
+      background-color: #005f73;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+    }
+    main {
+      padding: 2rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Conjunto Residencial La Capilla</h1>
+    <p>Bienvenidos a nuestro sitio informativo</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre el conjunto</h2>
+      <p>Conjunto ubicado en Bogotá, Colombia. Contamos con zonas verdes, seguridad 24/7 y un ambiente tranquilo para toda la familia.</p>
+    </section>
+
+    <section>
+      <h2>Noticias recientes</h2>
+      <ul>
+        <li>⚠️ Corte de agua el 23 de agosto de 8am a 12pm.</li>
+        <li>🏊‍♂️ Apertura de la piscina programada para el 1 de septiembre.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contacto</h2>
+      <p>Email: contacto@lacapilla.co</p>
+      <p>Teléfono: +57 321 456 7890</p>
+      <p>Dirección: Calle 123 #45-67, Bogotá</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2023 Conjunto La Capilla
+  </footer>
+
+</body>
+</html>
